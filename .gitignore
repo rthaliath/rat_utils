@@ -1,0 +1,7 @@
+__pycache__
+.coverage
+.vscode
+.pytest_cache
+htmlcov
+
+.DS_Store
