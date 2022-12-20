@@ -1,7 +1,7 @@
 '''
     Test for Mapr
 '''
-from .context import perform_map, mapr
+from rat_utils.mapr import perform_map, mapr
 
 SAMPLE_MAPPER = {
     "legal_name": "name.first_name",
